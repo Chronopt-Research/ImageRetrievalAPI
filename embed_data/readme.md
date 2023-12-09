@@ -1,0 +1,1 @@
+This folder used for storing embedding of ImageNet-1k
