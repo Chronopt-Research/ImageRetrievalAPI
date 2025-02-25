@@ -6,4 +6,4 @@ opencv_python==4.6.0.66
 Pillow==10.1.0
 Requests==2.31.0
 torch==2.0.1+cu117
-transformers==4.34.0
+transformers==4.48.0
